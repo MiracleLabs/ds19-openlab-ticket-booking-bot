@@ -1,6 +1,6 @@
 # DS19 Open Lab | Build a ticket booking Bot using Google's Dialogflow
 
-This repository contains the lab which teaches attendees how to build Cognitive bots for Facebook Messenger using Dialogflow. It is one of the labs brought to you by Miracle's Innovation Labs.
+This repository contains the lab which teaches attendees how to build Cognitive bots for Facebook Messenger using Google's Dialogflow. It is one of the labs brought to you by Miracle's Innovation Labs.
 
 ## Technology Overview
 
@@ -9,6 +9,10 @@ The following are the technologies that are used in this lab. Any prior knowledg
 • Google's Dialogflow
 
 • Node JS
+
+## Technology Overview
+
+• Install Node JS - https://nodejs.org/en/download/
 
 • Facebook for Developers - https://developers.facebook.com/
 
