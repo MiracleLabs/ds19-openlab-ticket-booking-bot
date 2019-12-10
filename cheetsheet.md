@@ -1,4 +1,4 @@
-# DS19 Open Lab | Build a ticket booking bot using Google's Dialogflow
+# DS19 Open Lab | Build a Ticket Booking bot using Google's Dialogflow
 
 The below markdown file consists of commands and notes that will help you to complete and understand the lab - Build a ticket booking Bot using Google's Dialogflow.
 
@@ -10,7 +10,7 @@ The below markdown file consists of commands and notes that will help you to com
 npm init
 ```
 
-### To install Node JS module
+### To install Node JS modules
 
 ```
 npm install <module-name>
